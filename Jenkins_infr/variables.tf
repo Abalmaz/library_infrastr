@@ -1,0 +1,9 @@
+variable "project_name" {}
+variable "env_pref" {}
+variable "my_ip" {}
+variable "region" {}
+variable "zone" {}
+variable "subnet_cidr" {}
+variable "instance_type" {}
+variable "public_key_location" {}
+variable "ssh_user_name" {}
